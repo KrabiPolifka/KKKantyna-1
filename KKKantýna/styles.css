@@ -1,0 +1,84 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+ 
+    background-image: url("pozadí.jfif");
+    background-size: 50%;
+}
+ 
+.meníčko {
+    width: 600px;
+    background: rgba(255, 230, 200, 0.85);
+    margin: 40px auto;
+    padding: 30px;
+    border-radius: 4px;
+    box-shadow: 0 0 10px #00000055;
+    background-color: burlywood;
+    display: block;
+    max-width: 500px;
+
+}
+
+.ikona {
+    max-width: 50px;
+    display: block;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 5px;
+}
+ 
+.estimate {
+    text-align: center;
+    font-style: italic;
+    margin-top: 0;
+}
+ 
+hr {
+    height: 2px; 
+    background: black;
+    border: none;
+}
+ 
+h2 {
+    text-align: center;
+    margin-top: 20px;
+}
+ 
+ul {
+    list-style: none;
+    padding: 0;
+}
+ 
+li {
+    font-size: 18px;
+    margin: 6px 0;
+}
+ 
+.price {
+    float: right;
+    font-weight: bold;
+}
+ 
+.icon {
+    text-align: center;
+    margin: 10px 0;
+}
+ 
+.icon img {
+    width: 60px;
+}
+ 
+a {
+    display: block;
+    text-align: center;
+    margin-top: 10px;
+}
+ 
+.footer {
+    text-align: center;
+    font-size: 14px;
+}
+ 
